@@ -1,0 +1,10 @@
+# Core pipeline (add/adjust to match your environment)
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+yfinance>=0.2.0
+beautifulsoup4
+lxml
+openai

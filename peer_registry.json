@@ -1,0 +1,600 @@
+{
+  "Consumer Goods": [
+    {
+      "company_name": "PROCTER & GAMBLE CO",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 335.02,
+      "size_tier": "large_cap",
+      "ticker": "PG"
+    },
+    {
+      "company_name": "COLGATE-PALMOLIVE COMPANY",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 68.36,
+      "size_tier": "mid_cap",
+      "ticker": "CL"
+    },
+    {
+      "company_name": "CHURCH & DWIGHT CO., INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 22.32,
+      "size_tier": "mid_cap",
+      "ticker": "CHD"
+    },
+    {
+      "company_name": "Spectrum Brands Holdings, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.75,
+      "size_tier": "small_cap",
+      "ticker": "SPB"
+    },
+    {
+      "company_name": "ENERGIZER HOLDINGS, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.14,
+      "size_tier": "small_cap",
+      "ticker": "ENR"
+    },
+    {
+      "company_name": "PRESTIGE CONSUMER HEALTHCARE INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2.92,
+      "size_tier": "small_cap",
+      "ticker": "PBH"
+    },
+    {
+      "company_name": "CENTRAL GARDEN & PET CO",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2.33,
+      "size_tier": "small_cap",
+      "ticker": "CENT"
+    },
+    {
+      "company_name": "OIL-DRI CORPORATION OF AMERICA",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.92,
+      "size_tier": "small_cap",
+      "ticker": "ODC"
+    },
+    {
+      "company_name": "The Beauty Health Company",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.13,
+      "size_tier": "micro_cap",
+      "ticker": "SKIN"
+    }
+  ],
+  "Industrials": [
+    {
+      "company_name": "HONEYWELL INTERNATIONAL INC",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 144.34,
+      "size_tier": "large_cap",
+      "ticker": "HON"
+    },
+    {
+      "company_name": "CATERPILLAR INC",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 337.83,
+      "size_tier": "large_cap",
+      "ticker": "CAT"
+    },
+    {
+      "company_name": "Emerson Electric Co.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 74.01,
+      "size_tier": "mid_cap",
+      "ticker": "EMR"
+    },
+    {
+      "company_name": "ROCKWELL AUTOMATION, INC",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 40.7,
+      "size_tier": "mid_cap",
+      "ticker": "ROK"
+    },
+    {
+      "company_name": "WATTS WATER TECHNOLOGIES INC",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 9.93,
+      "size_tier": "mid_cap",
+      "ticker": "WTS"
+    },
+    {
+      "company_name": "Insteel Industries Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.65,
+      "size_tier": "small_cap",
+      "ticker": "IIIN"
+    },
+    {
+      "company_name": "HAYNES INTERNATIONAL, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": null,
+      "size_tier": null,
+      "ticker": "HAYN"
+    },
+    {
+      "company_name": "NN, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.09,
+      "size_tier": "micro_cap",
+      "ticker": "NNBR"
+    },
+    {
+      "company_name": "MUELLER INDUSTRIES, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 12.41,
+      "size_tier": "mid_cap",
+      "ticker": "MLI"
+    },
+    {
+      "company_name": "APOGEE ENTERPRISES, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.7,
+      "size_tier": "small_cap",
+      "ticker": "APOG"
+    }
+  ],
+  "Retail": [
+    {
+      "company_name": "Walmart Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 978.93,
+      "size_tier": "large_cap",
+      "ticker": "WMT"
+    },
+    {
+      "company_name": "AMAZON COM INC",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2281.28,
+      "size_tier": "large_cap",
+      "ticker": "AMZN"
+    },
+    {
+      "company_name": "COSTCO WHOLESALE CORP /NEW",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 433.72,
+      "size_tier": "large_cap",
+      "ticker": "COST"
+    },
+    {
+      "company_name": "HOME DEPOT, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 331.28,
+      "size_tier": "large_cap",
+      "ticker": "HD"
+    },
+    {
+      "company_name": "TARGET CORPORATION",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 52.65,
+      "size_tier": "mid_cap",
+      "ticker": "TGT"
+    },
+    {
+      "company_name": "DOLLAR GENERAL CORPORATION",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 26.08,
+      "size_tier": "mid_cap",
+      "ticker": "DG"
+    },
+    {
+      "company_name": "KOHL\u2019S CORP",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.42,
+      "size_tier": "small_cap",
+      "ticker": "KSS"
+    },
+    {
+      "company_name": "THE CATO CORPORATION",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.05,
+      "size_tier": "micro_cap",
+      "ticker": "CATO"
+    },
+    {
+      "company_name": "URBAN OUTFITTERS, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 5.57,
+      "size_tier": "mid_cap",
+      "ticker": "URBN"
+    },
+    {
+      "company_name": "Boot Barn Holdings, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 4.78,
+      "size_tier": "small_cap",
+      "ticker": "BOOT"
+    }
+  ],
+  "Technology Hardware": [
+    {
+      "company_name": "Dell Technologies",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 119.69,
+      "size_tier": "large_cap",
+      "ticker": "DELL"
+    },
+    {
+      "company_name": "HP Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 17.97,
+      "size_tier": "mid_cap",
+      "ticker": "HPQ"
+    },
+    {
+      "company_name": "Qualcomm",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 139.79,
+      "size_tier": "large_cap",
+      "ticker": "QCOM"
+    },
+    {
+      "company_name": "Broadcom",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1513.46,
+      "size_tier": "large_cap",
+      "ticker": "AVGO"
+    },
+    {
+      "company_name": "Texas Instruments",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 180.11,
+      "size_tier": "large_cap",
+      "ticker": "TXN"
+    },
+    {
+      "company_name": "Intel",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 237.4,
+      "size_tier": "large_cap",
+      "ticker": "INTC"
+    },
+    {
+      "company_name": "Seagate Technology",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 92.98,
+      "size_tier": "mid_cap",
+      "ticker": "STX"
+    },
+    {
+      "company_name": "Western Digital",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 101.53,
+      "size_tier": "large_cap",
+      "ticker": "WDC"
+    },
+    {
+      "company_name": "IBM",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 227.48,
+      "size_tier": "large_cap",
+      "ticker": "IBM"
+    },
+    {
+      "company_name": "NVIDIA",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 4349.02,
+      "size_tier": "large_cap",
+      "ticker": "NVDA"
+    },
+    {
+      "company_name": "Zebra Technologies Corporation",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 10.57,
+      "size_tier": "mid_cap",
+      "ticker": "ZBRA"
+    },
+    {
+      "company_name": "Lattice Semiconductor Corporation",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 13.84,
+      "size_tier": "mid_cap",
+      "ticker": "LSCC"
+    },
+    {
+      "company_name": "NOVANTA INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 4.27,
+      "size_tier": "small_cap",
+      "ticker": "NOVT"
+    },
+    {
+      "company_name": "OSI SYSTEMS,\u00a0INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 4.8,
+      "size_tier": "small_cap",
+      "ticker": "OSIS"
+    },
+    {
+      "company_name": "BENCHMARK ELECTRONICS, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2.11,
+      "size_tier": "small_cap",
+      "ticker": "BHE"
+    },
+    {
+      "company_name": "Preformed Line Products Company",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.34,
+      "size_tier": "small_cap",
+      "ticker": "PLPC"
+    },
+    {
+      "company_name": "Daktronics, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.04,
+      "size_tier": "small_cap",
+      "ticker": "DAKT"
+    },
+    {
+      "company_name": "VICOR CORPORATION",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 8.54,
+      "size_tier": "mid_cap",
+      "ticker": "VICR"
+    }
+  ],
+  "Technology Software": [
+    {
+      "company_name": "Microsoft",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2758.38,
+      "size_tier": "large_cap",
+      "ticker": "MSFT"
+    },
+    {
+      "company_name": "Alphabet",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 3524.95,
+      "size_tier": "large_cap",
+      "ticker": "GOOGL"
+    },
+    {
+      "company_name": "Meta Platforms",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1518.05,
+      "size_tier": "large_cap",
+      "ticker": "META"
+    },
+    {
+      "company_name": "Salesforce",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 169.57,
+      "size_tier": "large_cap",
+      "ticker": "CRM"
+    },
+    {
+      "company_name": "Adobe",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 97.72,
+      "size_tier": "mid_cap",
+      "ticker": "ADBE"
+    },
+    {
+      "company_name": "WORKDAY, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 33.67,
+      "size_tier": "mid_cap",
+      "ticker": "WDAY"
+    },
+    {
+      "company_name": "Informatica Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": null,
+      "size_tier": null,
+      "ticker": "INFA"
+    },
+    {
+      "company_name": "GITLAB INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 3.53,
+      "size_tier": "small_cap",
+      "ticker": "GTLB"
+    },
+    {
+      "company_name": "PAYLOCITY HOLDING CORPORATION",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 5.97,
+      "size_tier": "mid_cap",
+      "ticker": "PCTY"
+    },
+    {
+      "company_name": "Braze, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2.63,
+      "size_tier": "small_cap",
+      "ticker": "BRZE"
+    },
+    {
+      "company_name": "SPS COMMERCE, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 2.08,
+      "size_tier": "small_cap",
+      "ticker": "SPSC"
+    },
+    {
+      "company_name": "Verint Systems Inc",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 1.24,
+      "size_tier": "small_cap",
+      "ticker": "VRNT"
+    },
+    {
+      "company_name": "DOMO, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.14,
+      "size_tier": "micro_cap",
+      "ticker": "DOMO"
+    },
+    {
+      "company_name": "Remitly Global, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 3.41,
+      "size_tier": "small_cap",
+      "ticker": "RELY"
+    }
+  ],
+  "Telecommunications": [
+    {
+      "company_name": "AT&T INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 205.38,
+      "size_tier": "large_cap",
+      "ticker": "T"
+    },
+    {
+      "company_name": "Verizon Communications Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 213.25,
+      "size_tier": "large_cap",
+      "ticker": "VZ"
+    },
+    {
+      "company_name": "T-MOBILE US, INC.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 235.85,
+      "size_tier": "large_cap",
+      "ticker": "TMUS"
+    },
+    {
+      "company_name": "Charter Communications, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 27.47,
+      "size_tier": "mid_cap",
+      "ticker": "CHTR"
+    },
+    {
+      "company_name": "Consolidated Communications Holdings, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": null,
+      "size_tier": null,
+      "ticker": "CNSL"
+    },
+    {
+      "company_name": "Shenandoah Telecommunications Company",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.82,
+      "size_tier": "small_cap",
+      "ticker": "SHEN"
+    },
+    {
+      "company_name": "Ooma, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.39,
+      "size_tier": "micro_cap",
+      "ticker": "OOMA"
+    },
+    {
+      "company_name": "Iridium Communications Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 3.11,
+      "size_tier": "small_cap",
+      "ticker": "IRDM"
+    },
+    {
+      "company_name": "Cable One, Inc.",
+      "last_classified": "2026-03-25",
+      "market_cap_billions": 0.53,
+      "size_tier": "small_cap",
+      "ticker": "CABO"
+    }
+  ],
+  "industry_averages": [
+    "Advertising",
+    "Aerospace Defense",
+    "Air Transport",
+    "Apparel",
+    "Auto Parts",
+    "Auto Truck",
+    "Bank Money Center",
+    "Banks Regional",
+    "Beverage Alcoholic",
+    "Beverage Soft",
+    "Broadcasting",
+    "Brokerage Investment Banking",
+    "Building Materials",
+    "Business Consumer Services",
+    "Cable TV",
+    "Chemical Basic",
+    "Chemical Diversified",
+    "Chemical Specialty",
+    "Coal Related Energy",
+    "Computer Services",
+    "Computers Peripherals",
+    "Construction Supplies",
+    "Diversified",
+    "Drugs Biotechnology",
+    "Drugs Pharmaceutical",
+    "Education",
+    "Electrical Equipment",
+    "Electronics Consumer Office",
+    "Electronics General",
+    "Engineering Construction",
+    "Entertainment",
+    "Environmental Waste Services",
+    "Farming Agriculture",
+    "Financial Svcs Non-bank Insurance",
+    "Food Processing",
+    "Food Wholesalers",
+    "Furn Home Furnishings",
+    "Green Renewable Energy",
+    "Healthcare Products",
+    "Healthcare Support Services",
+    "Heathcare Information and Technology",
+    "Homebuilding",
+    "Hospitals Healthcare Facilities",
+    "Hotel Gaming",
+    "Household Products",
+    "Information Services",
+    "Insurance General",
+    "Insurance Life",
+    "Insurance Prop Cas",
+    "Investments Asset Management",
+    "Machinery",
+    "Metals Mining",
+    "Office Equipment Services",
+    "Oil Gas Distribution",
+    "Oil Gas Integrated",
+    "Oil Gas Production and Exploration",
+    "Oilfield Svcs Equip",
+    "Packaging Container",
+    "Paper Forest Products",
+    "Power",
+    "Precious Metals",
+    "Publishing Newspapers",
+    "REIT",
+    "Real Estate Development",
+    "Real Estate General Diversified",
+    "Real Estate Operations Services",
+    "Recreation",
+    "Reinsurance",
+    "Restaurant Dining",
+    "Retail Automotive",
+    "Retail Building Supply",
+    "Retail Distributors",
+    "Retail General",
+    "Retail Grocery and Food",
+    "Retail REITs",
+    "Retail Special Lines",
+    "Rubber Tires",
+    "Semiconductor",
+    "Semiconductor Equip",
+    "Shipbuilding Marine",
+    "Shoe",
+    "Software Entertainment",
+    "Software Internet",
+    "Software System Application",
+    "Steel",
+    "Telecom Equipment",
+    "Telecom Services",
+    "Telecom Wireless",
+    "Tobacco",
+    "Transportation",
+    "Transportation Railroads",
+    "Trucking",
+    "Utility General",
+    "Utility Water"
+  ]
+}
