@@ -32,13 +32,14 @@ Early-stage M&A analysis is time-intensive and requires manual collection and in
 
 ## Current Status
 
-This project is currently focused on improving data quality and robustness in the parsing pipeline. 
+The project is currently focused on improving data quality and robustness in the parsing pipeline.
 
-Initial development showed that inconsistent or inaccurate input data significantly impacts downstream analysis and overall system reliability. As a result, the current work prioritizes building and testing a reliable data parsing layer.
+During development, it became clear that inconsistent or inaccurate input data propagates through the system and undermines downstream analysis. Therefore, the current priority is to establish a reliable and validated data foundation.
 
-The `test_html_parser.py` module is used to validate parsing logic and ensure consistent extraction of financial data before it enters the analysis workflow.
+The `test_html_parser.py` module is used to systematically test and validate parsing logic, ensuring consistent extraction of financial data before it enters the analysis workflow.
 
-This step is critical to establish a stable foundation for subsequent components such as agent-based analysis, benchmarking, and report generation.
+This reflects a broader design focus on building reliable AI systems by addressing data quality and validation early in the pipeline.
+
 ## Key Learnings
 
 - Designing multi-step AI workflows
